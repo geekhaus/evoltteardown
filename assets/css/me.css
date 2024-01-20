@@ -255,6 +255,24 @@ body.page-template-page-fullsingle-me {
     .credit p.copyright a {
       color: #999999; }
 
+.links {
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 0;
+  color: #CCCCCC;
+  -webkit-animation: fadein 8s;
+          animation: fadein 8s; }
+  .credit p.link {
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 400; }
+    .credit p.link a {
+      color: #999999; }
+    .credit p.link a:hover {
+      color: #FFFFFF;
+      -webkit-transition: 0.1s;
+      transition: 0.1s; }
+
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
   body.page-template-page-fullsingle-me.me-video .me-video-container {
