@@ -70,7 +70,7 @@ img.aligncenter {
   margin-left: auto; }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #4F5C38;
   border-style: none; }
 
 body,
@@ -99,20 +99,17 @@ a:hover {
     opacity: 1; } }
 
 html {
-  background-color: #141414; }
+  background-color: #4F5C38; }
 
 body.page-template-page-fullsingle-me {
   height: 100vh;
-  background-color: #141414;
+  background-color: #4F5C38;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 45px;
   line-height: 60px;
   letter-spacing: -0.5px;
-  color: #999999;
-  background-image: url("../../images/background.jpg");
-  background-position: center center;
-  background-size: cover; }
+  color: #999999; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
     color: #999999; }
