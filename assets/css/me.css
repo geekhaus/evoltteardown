@@ -8,6 +8,11 @@ Version: 0.2.2
 */
 /* -- CSS Reset -- */
 @import url("https://fonts.googleapis.com/css?family=Poppins:100");
+html {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -33,9 +38,6 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  font-family: "Poppins", sans-serif;
-  font-weight: 100;
-  font-style: normal;
   line-height: 1; }
 
 ol, ul {
