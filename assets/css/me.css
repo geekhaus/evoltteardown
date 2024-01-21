@@ -118,8 +118,7 @@ body.page-template-page-fullsingle-me {
   z-index: 1000; }
   @media (max-width: 500px) {
     .fs-me {
-      padding: 5vh 5vw;
-      text-align: center; } }
+      padding: 5vh 5vw; } }
   .fs-me .me-content {
     height: 80vh;
     display: -webkit-box;
@@ -145,9 +144,7 @@ body.page-template-page-fullsingle-me {
   -webkit-flex-direction: column;
           flex-direction: column;
   -webkit-align-self: left;
-          align-self: left;
-  -webkit-animation: fadein 2s;
-          animation: fadein 2s; }
+          align-self: left; }
   @media (max-width: 500px) {
     .logo {
       -webkit-align-self: center;
@@ -170,8 +167,6 @@ body.page-template-page-fullsingle-me {
   -webkit-box-pack: center;
   -webkit-justify-content: center;
           justify-content: center;
-  -webkit-animation: fadein 4s;
-          animation: fadein 4s;
   letter-spacing: -1px;
   max-width: 80%; }
   @media (max-width: 800px) {
